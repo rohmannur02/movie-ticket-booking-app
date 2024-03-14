@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Movie Apps BWA</string>
+
+    <string name="now_play">Now Playing</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="cashless">Cashless</string>
+    <string name="txt_ob1"><b>Ayo Mulai!</b> \nJelajahi serunya dunia bioskop dengan satu sentuhan</string>
+    <string name="txt_ob2">Coba Sekarang! \nNikmati keseruan menonton tanpa repot antrean</string>
+    <string name="txt_ob3">Ayo Mulai Nonton! \nPesan, Bayar Efisien. Nikmati film favoritmu tanpa repot</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="lewati">LEWATI</string>
+    <string name="memulai">MEMULAI</string>
+    <string name="masuk">MASUK</string>
+    <string name="daftar_akun">DAFTAR AKUN BARU</string>
+    <string name="kode">KIRIM KODE</string>
+    <string name="sign_in">Sign In</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="upload_nanti">UPLOAD NANTI</string>
+    <string name="beli_tiket">BELI TIKET</string>
+    <string name="bayar_sekarang">BAYAR SEKARANG</string>
+    <string name="batalkan">BATALKAN</string>
+    <string name="lihat_tiket">LIHAT TIKET</string>
+    <string name="tutup">TUTUP</string>
+    <string name="desc_sign_up">Dengan mengklik tombol <b>Daftar</b>, Anda setuju \ndengan tawaran umum.</string>
+
+    <string name="username_or_email">Username or Email</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="masuk_dengan">Masuk Dengan</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="masukan_email">Masukan Alamat Email Kamu</string>
+    <string name="txt_desc_lupa">* Kami akan mengirimkan pesan kepada Anda untuk \nmenetapkan atau mengatur ulang kata sandi baru Anda</string>
+
+    <string name="photo">Photo</string>
+    <string name="selamat_datang">Selamat Datang, \nKara Danvers</string>
+    <string name="kara_danvers">Kara Danvers</string>
+    <string name="sedang_tayang">Sedang Tayang</string>
+    <string name="lihat_semua">Lihat Semua ></string>
+    <string name="star_wars">Star Wars : The Last Jedi</string>
+    <string name="fast_furious">Fast &amp; Furious 9</string>
+    <string name="conjuring">The Conjuring 3</string>
+    <string name="alita">Alita : Battle Angle</string>
+    <string name="action_scifi">Action, Sci-fi</string>
+    <string name="horor">Horor</string>
+    <string name="rating">9.2</string>
+
+    <string name="director">Director</string>
+    <string name="rian_jhonson">Rian jhonson</string>
+    <string name="writter">Writter</string>
+    <string name="genre">Genre</string>
+    <string name="ph">PH</string>
+    <string name="lucas_film">Lucas Film Ltd.</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="p_g">13+</string>
+    <string name="more_rating">9.2/10</string>
+
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="tersedia">Tersedia</string>
+    <string name="tidak_tersedia">Tidak Tersedia</string>
+    <string name="dipilih">Dipilih</string>
+
+    <string name="chechkout">Checkout</string>
+    <string name="when">When</string>
+    <string name="date_time">Date &amp; Time </string>
+    <string name="jadwal">12 Aug, 12AM</string>
+    <string name="cinema">Cinema</string>
+    <string name="loc_cinema">Depok Mall, Cinema 3</string>
+    <string name="Items">Items</string>
+    <string name="seat13">Seat NO A13</string>
+    <string name="seat10">Seat NO A10</string>
+    <string name="idr_70k">IDR 70.000</string>
+    <string name="idr_140k">IDR 140.000</string>
+    <string name="idr_200k">IDR 200.000</string>
+    <string name="idr_280k">IDR 280.000</string>
+    <string name="idr_500">IDR 500</string>
+    <string name="saldo_tersisa">Saldo Tersisa</string>
+    <string name="balance">Total Balanced</string>
+    <string name="desc_balance">Saldo pada e-wallet kamu tidak <b>mencukupi</b> untuk melakukan transaksi</string>
+    <string name="happy_watch">Happy Watching!</string>
+    <string name="desc_happy_watch">"Selamat! Tiketmu telah berhasil dibeli! \nSegera ajak temanmu, siapkan popcorn, dan nikmati pengalaman bioskop yang tak terlupakan! Selamat menonton!"</string>
+    <string name="movies">2.490</string>
+    <string name="desc_sinopsis">Luke Skywalker\'s peaceful and solitary existence gets upended when he encounters Rey, a
+        young woman who shows strong signs of the Force. Her desire to learn the ways of the Jedi forces Luke to make a
+        decision that changes their lives forever. Meanwhile, Kylo Ren and General Hux lead the First Order in an all-out
+        assault against Leia and the Resistance for supremacy of the galaxy. </string>
+
+    <string name="print">Quick Print</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="desc_barcode">Silahkan melakukan scanning pada \ncounter tiket terdekat</string>
+
+    <string name="setting">Setting</string>
+    <string name="desc_profile">Profile Kamu</string>
+    <string name="updt_profile">Ayo Update Profile Kamu</string>
+    <string name="kara_email">kara.danvers@gmail.com</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="ubah_bahasa">Ubah Bahasa</string>
+
+
+    <string name="super_girl">Super Girl</string>
+    <string name="pass__">***********************</string>
+    <string name="daftar_transaksi">Daftar Transaksi</string>
+    <string name="avengers">Sabtu, 12 Jan 2024</string>
+    <string name="sabtu">Daftar Transaksi</string>
+    <string name="top_up">Top Up</string>
+    <string name="kamis">Kamis, 10 Jan 2024</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

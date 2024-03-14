@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="sec_btn">#262433</color>
+    <color name="stroke_sec_btn">#EA6A6A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_grey">#D3E1DBDB</color>
+    <color name="black_old">#1C1A29</color>
+    <color name="bot_nav">#2F2C44</color>
+    <color name="ocean_blue">#32798F</color>
+    <color name="pink_old">#EABAC8</color>
+    <color name="pink">#FF2667</color>
+    <color name="colorGreen">#1ABC9C</color>
+    <color name="colorBlueGrey">#292A50</color>
+    <color name="colorWhiteGrey">#F7F7F7</color>
+</resources>

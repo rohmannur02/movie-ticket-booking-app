@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331975305747",
+    "project_id": "movie-apps-bwa",
+    "storage_bucket": "movie-apps-bwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331975305747:android:b2791bb8d583b3e7352de6",
+        "android_client_info": {
+          "package_name": "com.example.movieappsbwa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgwk4VaBi_Wu_d07HXqGXdPnv1niwYf2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
